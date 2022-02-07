@@ -2,7 +2,6 @@
 #### I am a fresh graduate with strong passion for machine learning and deep learning. An analytical and dependable person, eager to contribute to team success through hard work, attention to details and excellent organizational skills, Motivated to learn, grow and excel in the field of artificial intelligence, despite having no work experience.
 ![I am a fresh graduate with strong passion for machine learning and deep learning. An analytical and dependable person, eager to contribute to team success through hard work, attention to details and excellent organizational skills, Motivated to learn, grow and excel in the field of artificial intelligence, despite having no work experience.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / C / C++/ Tensorflow/ Pytorch / Django / REACT / JS / HTML / CSS/ SQL
 
