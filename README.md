@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sabir Ali
 #### I am a fresh graduate with strong passion for machine learning and deep learning. An analytical and dependable person, eager to contribute to team success through hard work, attention to details and excellent organizational skills, Motivated to learn, grow and excel in the field of artificial intelligence, despite having no work experience.
-![I am a fresh graduate with strong passion for machine learning and deep learning. An analytical and dependable person, eager to contribute to team success through hard work, attention to details and excellent organizational skills, Motivated to learn, grow and excel in the field of artificial intelligence, despite having no work experience.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a fresh graduate with strong passion for machine learning and deep learning. An analytical and dependable person, eager to contribute to team success through hard work, attention to details and excellent organizational skills, Motivated to learn, grow and excel in the field of artificial intelligence, despite having no work experience.]
 
 ### Languages and Tools:
 
