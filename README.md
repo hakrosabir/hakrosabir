@@ -44,11 +44,3 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&theme=radical)
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true)  
-
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hakrosabir)  
-
-![Profile views](https://gpvc.arturio.dev/hakrosabir)
