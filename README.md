@@ -20,18 +20,15 @@ I'm always excited to embark on new projects and collaborate with like-minded in
 
 Feel free to reach out to me today to start a conversation. You can contact me via email or connect with me on LinkedIn. Let's explore the endless possibilities of AI, computer vision, and web development together!
 
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+# Tools and Technologies
 
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+- **Languages**: Python, Tensorflow, Pytorch, OpenCV, MATLAB
+- **IDEs**: Visual Studio Code
+- **Web Technologies**: HTML5, CSS3, JavaScript, React
+- **Databases**: SQL
+- **Version Control**: Git
 
-<br />
+## GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hakrosabir)](https://github.com/ryo-ma/github-profile-trophy)
 
