@@ -20,7 +20,6 @@ I'm always excited to embark on new projects and collaborate with like-minded in
 
 Feel free to reach out to me today to start a conversation. You can contact me via email or connect with me on LinkedIn. Let's explore the endless possibilities of AI, computer vision, and web development together!
 
-
 <img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,4 +43,4 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hakrosabir)  
 
-![Profile views](https://gpvc.arturio.dev/hakrosabir)  
+![Profile views](https://gpvc.arturio.dev/hakrosabir)
