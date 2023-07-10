@@ -29,6 +29,13 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 - **Version Control**: Git
 
 ## GitHub Stats
+## GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hakrosabir)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true)  
 
 
 
