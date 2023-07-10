@@ -30,13 +30,7 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 
 ## GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hakrosabir)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hakrosabir)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hakrosabir)  
 
