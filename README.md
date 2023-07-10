@@ -57,7 +57,3 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 
 ![Profile Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)
 
-![Profile Languages](https://img.shields.io/github/languages/count/hakrosabir)
-![Profile Most Used Languages](https://img.shields.io/github/languages/top/hakrosabir)
-
-![Profile Activity](https://activity-graph.herokuapp.com/graph?username=hakrosabir&theme=github)
