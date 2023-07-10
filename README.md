@@ -58,6 +58,5 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 ![Profile Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)
 ## Profile Views by Country
 
-[![Top Countries](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Countries](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&card_width=445&langs_count=6&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
