@@ -18,8 +18,9 @@ I'm always excited to embark on new projects and collaborate with like-minded in
 
 ## 📞 **Get in Touch**
 
-Feel free to reach out to me today to start a conversation. You can contact me via [email](mailto:your-email@example.com), connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile), or [work with me on Fiverr](https://www.fiverr.com/sabirhakro) ![Fiverr](https://img.shields.io/badge/Fiverr-Work%20with%20Me-brightgreen).
+Feel free to reach out to me today to start a conversation. You can contact me via [email](mailto:hakrosabir@gmail.com), connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sabirhakro/)), or [work with me on Fiverr](https://www.fiverr.com/sabirhakro).
 Let's explore the endless possibilities of AI, computer vision, and web development together!
+
 
 
 ## Tools and Technologies
