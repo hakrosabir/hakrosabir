@@ -18,7 +18,9 @@ I'm always excited to embark on new projects and collaborate with like-minded in
 
 ## 📞 **Get in Touch**
 
-Feel free to reach out to me today to start a conversation. You can contact me via email or connect with me on LinkedIn. Let's explore the endless possibilities of AI, computer vision, and web development together!
+Feel free to reach out to me today to start a conversation. You can contact me via [email](mailto:your-email@example.com), connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile), or [work with me on Fiverr](https://www.fiverr.com/sabirhakro) ![Fiverr](https://img.shields.io/badge/Fiverr-Work%20with%20Me-brightgreen).
+Let's explore the endless possibilities of AI, computer vision, and web development together!
+
 
 ## Tools and Technologies
 
@@ -58,5 +60,3 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 ![Profile Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)
 ## Profile Views by Country
 
-
-[![Top Countries](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&card_width=445&langs_count=6&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
