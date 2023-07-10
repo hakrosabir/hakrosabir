@@ -59,5 +59,4 @@ Let's explore the endless possibilities of AI, computer vision, and web developm
 
 
 ![Profile Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)
-## Profile Views by Country
 
