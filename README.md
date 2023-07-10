@@ -44,3 +44,9 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&theme=radical)
 
 
+## Profile Views and Impressions
+
+![Profile Views](https://gpvc.arturio.dev/hakrosabir)
+![Profile Impressions](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Impressions&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhakrosabir.hakrosabir%2Freadme)
+
+
