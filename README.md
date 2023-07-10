@@ -20,25 +20,30 @@ I'm always excited to embark on new projects and collaborate with like-minded in
 
 Feel free to reach out to me today to start a conversation. You can contact me via email or connect with me on LinkedIn. Let's explore the endless possibilities of AI, computer vision, and web development together!
 
-# Tools and Technologies
+## Tools and Technologies
 
-- **Languages**: Python, Tensorflow, Pytorch, OpenCV, MATLAB
-- **IDEs**: Visual Studio Code
-- **Web Technologies**: HTML5, CSS3, JavaScript, React
-- **Databases**: SQL
-- **Version Control**: Git
+- **Languages**: 
+    - Python 🐍, JavaScript 🌐, HTML5 🌐, CSS3 🎨
+- **Libraries and Frameworks**:
+    - TensorFlow 🧠, PyTorch 🔥, OpenCV 🖼️, NumPy 🧮, Pandas 🐼, Matplotlib 📊, Scikit-learn 🧠, Flask 🌶️, Django 🎸, React ⚛️, Bootstrap 🅱️
+- **IDEs**: 
+    - Visual Studio Code 💻, Jupyter Notebook 📓, PyCharm 🐍
+- **Cloud Platforms**:
+    - Kaggle 📊, Google Colab 🎓, AWS SageMaker ☁️
+- **Databases**: 
+    - SQL 🗃️
+- **Version Control**: 
+    - Git 🗂️
+
 
 ## GitHub Stats
-## GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&theme=radical)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hakrosabir)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true)  
 
