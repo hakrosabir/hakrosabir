@@ -53,12 +53,8 @@ Feel free to reach out to me today to start a conversation. You can contact me v
 ![Profile Views](https://komarev.com/ghpvc/?username=hakrosabir)
 ![Profile Followers](https://img.shields.io/github/followers/hakrosabir?style=social)
 ![Profile Stars](https://img.shields.io/github/stars/hakrosabir?style=social)
-![Profile Forks](https://img.shields.io/github/forks/hakrosabir?style=social)
-![Profile Watchers](https://img.shields.io/github/watchers/hakrosabir?style=social)
 
-![Profile Issues](https://img.shields.io/github/issues/hakrosabir)
-![Profile Pull Requests](https://img.shields.io/github/issues-pr/hakrosabir)
-![Profile Repositories](https://img.shields.io/badge/Total%20Repositories-10-brightgreen)
+
 ![Profile Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)
 
 ![Profile Languages](https://img.shields.io/github/languages/count/hakrosabir)
