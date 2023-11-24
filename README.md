@@ -44,7 +44,6 @@ Let's explore the endless possibilities of AI, computer vision, and web developm
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrosabir&layout=compact&theme=radical)
 
 
 ## Profile Views and Impressions
