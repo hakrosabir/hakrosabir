@@ -39,10 +39,6 @@ Let's explore the endless possibilities of AI, computer vision, and web developm
     - Git 🗂️
 
 
-## GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakrosabir&show_icons=true&theme=radical)
 
 
 
